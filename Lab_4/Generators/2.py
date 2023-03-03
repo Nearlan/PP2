@@ -1,8 +1,9 @@
 def gen(n):
-    k = n
-    while k >= 0:
-        yield k
-        k -= 1
+    k = 0
+    while k <= n:
+        if k % 2 == 0:
+         yield k
+        k += 1
 
 
 n = int(input())
