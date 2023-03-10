@@ -1,0 +1,6 @@
+KBTU
+Kazakh
+British
+Techno
+Unik
+total count of lines must be 6
